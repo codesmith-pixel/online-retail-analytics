@@ -13,3 +13,4 @@ _pycache_/
 
 # Local environment files
 .env
+data/processed/*.csv
