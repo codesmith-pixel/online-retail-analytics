@@ -142,3 +142,14 @@ Do not delete or alter records until their nature and potential impact have been
 - Investigate extreme quantities and unusual stock codes.
 - Finalize duplicate and cancellation handling.
 - Define the final revenue metric before publishing conclusions.
+
+## Exploratory Analysis Progress
+
+- Prepared dataset loaded into Power BI.
+- Monthly ordinary-category line-value chart created.
+- Top 10 retail stock-code chart created.
+- Source worksheets contain identical records in the
+  December 1–9, 2010 overlap window.
+- Cross-sheet overlap requires correction or documented
+  treatment before final business conclusions are published.
+- Preliminary line value is not audited revenue or profit.
